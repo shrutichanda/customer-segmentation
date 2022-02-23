@@ -1,1 +1,1 @@
-# customer-segreagation
+# customer-segregation
